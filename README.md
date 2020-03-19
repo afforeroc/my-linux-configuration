@@ -51,46 +51,46 @@ unproxycli () {
 
 ## Recommended software list
 1. Browsers
-- firefox
-- google-chrome
+  - firefox
+  - google-chrome
 
 2. Development
-- codeblocks
-- default-jdk
-- eclipse
-- g++ 
-- gcc
-- idle3
-- pip3
-- python3
-- visual-studio-code
+  - codeblocks
+  - default-jdk
+  - eclipse
+  - g++ 
+  - gcc
+  - idle3
+  - pip3
+  - python3
+  - visual-studio-code
 
 3. Downloads
-- clipgrab
-- deluge
+  - clipgrab
+  - deluge
 
 4. Education 
-- stellarium
+  - stellarium
 
 5. File archivers
-- p7zip-full
-- p7zip-rar
-- unrar
+  - p7zip-full
+  - p7zip-rar
+  - unrar
 
 6. Graphics
-- gimp
-- gnome-paint
+  - gimp
+  - gnome-paint
 
 7. Multimedia
-- cheese
-- gnome-mplayer
+  - cheese
+  - gnome-mplayer
 
 8. Office
-- libre-office
-- pdfchain
-- wps-office
+  - libre-office
+  - pdfchain
+  - wps-office
 
 9. Videogames
-- gfceu
-- gnome-games
-- pcsxr
+  - gfceu
+  - gnome-games
+  - pcsxr
