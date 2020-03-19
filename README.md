@@ -48,7 +48,7 @@ unproxycli () {
     export ssh="http://168.176.239.41:8080"
 }
 ```
-3. Run for apply proxy configurations
+3. Run to apply the proxy configurations
 ```
 unproxycli
 ```
