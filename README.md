@@ -48,6 +48,10 @@ unproxycli () {
     export ssh="http://168.176.239.41:8080"
 }
 ```
+3. Run for apply proxy configurations
+```
+unproxycli
+```
 
 ## Recommended software list
 - **Browsers**
