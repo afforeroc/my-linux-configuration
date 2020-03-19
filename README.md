@@ -55,35 +55,37 @@ unproxycli
 
 ## Recommended software list
 
-| Software          | Linux                | Windows Alternative |
+| Software          | Linux                | Windows             |
 | :---------------: | :------------------: | :-----------------: |
-| **Archivers**     | p7zip-full           | //                  |
-|                   | p7zip-rar            | winrar              |
+| **Archivers**     | p7zip-full           | 7zip                |
+|                   | p7zip-rar            | 7zip/winrar         |
 |                   | unrar                | winrar              |
-| **Astronomy**     | celestia             | worldwide-telescope |
-|                   | stellarium           |                     |
-| **Browsers**      | firefox              |                     |
-|                   | google-chrome        |                     |
-| **Development**   | default-jdk          |                     |
+| **Astronomy**     | celestia             | //                  |
+|                   | stellarium           | //                  |
+| **Astronomy**     | <<no alternative>>   | worldwide-telescope |
+| **Browsers**      | firefox              | //                  |
+|                   | google-chrome        | //                  |
+| **Development**   | default-jdk          | jdk                 |
 |                   | g++                  | mingw               |
 |                   | gcc                  | cygwin              |
-|                   | git-core             |                     |
-|                   | nodejs               |                     |
-|                   | python3              |                     |
-| **Downloads**     | clipgrab             |                     |
-|                   | deluge               |                     |
+|                   | git-core             | git                 |
+|                   | nodejs               | //                  |
+|                   | python3              | //                  |
+| **Downloads**     | clipgrab             | //                  |
+|                   | deluge               | //                  |
 | **Graphics**      | flameshot            | lightshot           |
-|                   | gimp                 |                     |
+|                   | gimp                 | //                  |
 |                   | gnome-paint          | paint               |
-| **IDE**           | codeblocks           |                     |
-|                   | eclipse              |                     |
-|                   | geany                |                     |
-|                   | idle3                |                     |
-|                   | visual-studio-code   |                     |
-| **Multimedia**    | cheese               |                     |
+| **IDE**           | codeblocks           | //                  |
+|                   | eclipse              | //                  |
+|                   | geany                | //                  |
+|                   | idle3                | //                  |
+|                   | visual-studio-code   | //                  |
+| **Multimedia**    | cheese               | <<whatever>>        |
 |                   | gnome-mplayer        | gom-player          |
 | **Office**        | libre-office         | microsoft-office    |
 |                   | pdfchain             | adobe-acrobat       |
-|                   | wps-office           |                     |
-| **Videogames**    | gfceu                |                     |
-|                   | pcsxr                |                     |
+|                   | wps-office           | //                  |
+| **Videogames**    | gfceu                | //                  |
+|                   | gnome-games          | <<whatever>>        |
+|                   | pcsxr                | //                  |
