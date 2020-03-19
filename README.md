@@ -62,9 +62,12 @@ unproxycli
 |                   | unrar                | winrar              |
 | **Astronomy**     | celestia             | //                  |
 |                   | stellarium           | //                  |
-| **Astronomy**     | <<no alternative>>   | worldwide-telescope |
+|                   | <<no alternative>>   | worldwide-telescope |
 | **Browsers**      | firefox              | //                  |
 |                   | google-chrome        | //                  |
+| **Cloud**         | dropbox              | //                  |
+|                   | <<no alternative>>   | google-drive        |
+|                   | <<no alternative>>   | google-file-stream  |
 | **Development**   | default-jdk          | jdk                 |
 |                   | g++                  | mingw               |
 |                   | gcc                  | cygwin              |
