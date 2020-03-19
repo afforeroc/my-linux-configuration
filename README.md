@@ -55,21 +55,20 @@ unproxycli () {
     - google-chrome
 
 - **Development**
-    - codeblocks
     - default-jdk
-    - eclipse
     - g++ 
     - gcc
-    - idle3
-    - pip3
+    - git-core
+    - nodejs
     - python3
-    - visual-studio-code
 
 - **Downloads**
     - clipgrab
     - deluge
+    - transmission
 
-- **Education** 
+- **Education**
+    - celestia
     - stellarium
 
 - **File archivers**
@@ -81,9 +80,17 @@ unproxycli () {
     - gimp
     - gnome-paint
 
+- **IDE**
+    - codeblocks
+    - eclipse
+    - idle3
+    - geany
+    - visual-studio-code
+
 - **Multimedia**
     - cheese
     - gnome-mplayer
+    - vlc
 
 - **Office**
     - libre-office
