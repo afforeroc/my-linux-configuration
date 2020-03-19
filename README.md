@@ -54,54 +54,36 @@ unproxycli
 ```
 
 ## Recommended software list
-- **Browsers**
-    - firefox
-    - google-chrome
 
-- **Development**
-    - default-jdk
-    - g++ 
-    - gcc
-    - git-core
-    - nodejs
-    - python3
-
-- **Downloads**
-    - clipgrab
-    - deluge
-    - transmission
-
-- **Education**
-    - celestia
-    - stellarium
-
-- **File archivers**
-    - p7zip-full
-    - p7zip-rar
-    - unrar
-
-- **Graphics**
-    - gimp
-    - gnome-paint
-
-- **IDE**
-    - codeblocks
-    - eclipse
-    - geany
-    - idle3
-    - visual-studio-code
-
-- **Multimedia**
-    - cheese
-    - gnome-mplayer
-    - vlc
-
-- **Office**
-    - libre-office
-    - pdfchain
-    - wps-office
-
-- **Videogames**
-    - gfceu
-    - gnome-games
-    - pcsxr
+| Software          | Linux                | Windows Alternative |
+| -------------     |:--------------------:| -------------------:|
+| **Archivers**     | p7zip-full           | //                  |
+|                   | p7zip-rar            | //                  |
+|                   | unrar                | winrar              |
+| **Astronomy**     | celestia             | worldwide-telescope |
+|                   | stellarium           | //                  |
+| **Browsers**      | firefox              | //                  |
+|                   | google-chrome        | //                  |
+| **Development**   | default-jdk          | //                  |
+|                   | g++                  | mingw               |
+|                   | gcc                  | cygwin              |
+|                   | git-core             | //                  |
+|                   | nodejs               | //                  |
+|                   | python3              | //                  |
+| **Downloads**     | clipgrab             | //                  |
+|                   | deluge               | //                  |
+| **Graphics**      | flameshot            | lightshot           |
+|                   | gimp                 | //                  |
+|                   | gnome-paint          | paint               |
+| **IDE**           | codeblocks           | //                  |
+|                   | eclipse              | //                  |
+|                   | geany                | //                  |
+|                   | idle3                | //                  |
+|                   | visual-studio-code   | //                  |
+| **Multimedia**    | cheese               | //                  |
+|                   | gnome-mplayer        | gom-player          |
+| **Office**        | libre-office         | microsoft-office    |
+|                   | pdfchain             | adobe-acrobat       |
+|                   | wps-office           | //                  |
+| **Videogames**    | gfceu                | //                  |
+|                   | pcsxr                | //                  |
