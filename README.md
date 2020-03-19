@@ -1,4 +1,4 @@
-# My Linux Configurations
+# My Linux Configuration
 Using terminal
 
 ## Only for Debian
