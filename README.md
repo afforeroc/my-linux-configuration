@@ -83,8 +83,8 @@ unproxycli () {
 - **IDE**
     - codeblocks
     - eclipse
-    - idle3
     - geany
+    - idle3
     - visual-studio-code
 
 - **Multimedia**
