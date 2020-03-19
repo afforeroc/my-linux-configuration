@@ -58,7 +58,7 @@ unproxycli
 | Software          | Linux                | Windows Alternative |
 | :---------------: | :------------------: | :-----------------: |
 | **Archivers**     | p7zip-full           |                     |
-|                   | p7zip-rar            |                     |
+|                   | p7zip-rar            | winrar              |
 |                   | unrar                | winrar              |
 | **Astronomy**     | celestia             | worldwide-telescope |
 |                   | stellarium           |                     |
