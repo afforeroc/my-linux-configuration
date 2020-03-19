@@ -62,12 +62,12 @@ unproxycli
 |                   | unrar                | winrar              |
 | **Astronomy**     | celestia             | //                  |
 |                   | stellarium           | //                  |
-|                   | <no alternative>     | worldwide-telescope |
+|                   | *no alternative*     | worldwide-telescope |
 | **Browsers**      | firefox              | //                  |
 |                   | google-chrome        | //                  |
 | **Cloud**         | dropbox              | //                  |
-|                   | <no alternative>     | google-drive        |
-|                   | <no alternative>     | google-file-stream  |
+|                   | *no alternative*     | google-drive        |
+|                   | *no alternative*     | google-file-stream  |
 | **Development**   | default-jdk          | jdk                 |
 |                   | g++                  | mingw               |
 |                   | gcc                  | cygwin              |
@@ -84,11 +84,11 @@ unproxycli
 |                   | geany                | //                  |
 |                   | idle3                | //                  |
 |                   | visual-studio-code   | //                  |
-| **Multimedia**    | cheese               | <whatever>          |
+| **Multimedia**    | cheese               | *whatever*          |
 |                   | gnome-mplayer        | gom-player          |
 | **Office**        | libre-office         | microsoft-office    |
 |                   | pdfchain             | adobe-acrobat       |
 |                   | wps-office           | //                  |
 | **Videogames**    | gfceu                | //                  |
-|                   | gnome-games          | <whatever>          |
+|                   | gnome-games          | *whatever*          |
 |                   | pcsxr                | //                  |
