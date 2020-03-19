@@ -56,7 +56,7 @@ unproxycli
 ## Recommended software list
 
 | Software          | Linux                | Windows Alternative |
-| -------------     |:--------------------:| -------------------:|
+| -------------     |:--------------------:| :------------------:|
 | **Archivers**     | p7zip-full           |                     |
 |                   | p7zip-rar            |                     |
 |                   | unrar                | winrar              |
