@@ -52,3 +52,35 @@ unproxycli () {
 ```
 unproxycli
 ```
+
+## Recommended software list
+
+| Software type     | Linux                | Windows                         |
+| :---------------: | :------------------: | :-----------------------------: |
+| **Archivers**     | p7zip-full           | winzip, 7zip                    |
+|                   | p7zip-rar            | winrar                          |
+|                   | unrar                | winrar                          |
+| **Cloud**         | dropbox              | >>same<<                        |
+|                   | >>no alternative<<   | google-drive                    |
+|                   | >>no alternative<<   | google-file-stream              |
+| **Development**   | default-jdk          | jdk                             |
+|                   | g++                  | mingw                           | 
+|                   | gcc                  | mingw                           |
+|                   | git-core             | git                             | 
+|                   | nodejs               | >>same<<                        |
+|                   | python3              | >>same<<                        |
+| **Downloads**     | clipgrab             | >>same<<                        |
+|                   | deluge               | >>same<<                        |
+| **Graphics**      | flameshot            | lightshot                       |
+|                   | gimp                 | >>same<< / photoshop            |
+|                   | gnome-paint          | paint                           |
+| **IDE**           | codeblocks           | >>same<<                        |
+|                   | eclipse              | >>same<<                        |
+|                   | idle3                | >>same<<                        |
+|                   | visual-studio-code   | >>same<<                        |
+| **Multimedia**    | cheese               | camera                          |
+|                   | gnome-mplayer        | movies-&-tv                     |
+|                   | vlc                  | movies-&-tv                     |
+| **Office**        | libre-office         | >>same<< / microsoft-office     |
+|                   | pdfchain             | adobe-acrobat-dc                |
+|                   | wps-office           | >>same<< / microsoft-office     |
