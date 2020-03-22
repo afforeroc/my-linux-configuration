@@ -39,13 +39,13 @@ nano ~/.bashrc
 2. Copy and paste the following lines at the end of file 'bashrc' and save it
 ```
 unproxycli () {
-    export https_proxy="https://168.176.239.41:8080"
-    export socks_proxy="http://168.176.239.41:8080"
-    export gopher_proxy="http://168.176.239.41:8080"
-    export ftp_proxy="http://168.176.239.41:8080"
-    export http_proxy="http://168.176.239.41:8080"
-    export no_proxy="http://168.176.239.41:8080"
-    export ssh="http://168.176.239.41:8080"
+    export https_proxy="https://proxy4.unal.edu.co:8080"
+    export socks_proxy="https://proxy4.unal.edu.co:8080"
+    export gopher_proxy="https://proxy4.unal.edu.co:8080"
+    export ftp_proxy="https://proxy4.unal.edu.co:8080"
+    export http_proxy="https://proxy4.unal.edu.co:8080"
+    export no_proxy="https://proxy4.unal.edu.co:8080"
+    export ssh="https://proxy4.unal.edu.co:8080"
 }
 ```
 3. Run to apply the proxy configurations
@@ -80,6 +80,7 @@ unproxycli
 |                   | visual-studio-code   | >>same<<                        |
 | **Multimedia**    | cheese               | camera                          |
 |                   | gnome-mplayer        | movies-&-tv                     |
+|                   | rhythmbox            | windows-media-player / winamp   |
 |                   | vlc                  | movies-&-tv                     |
 | **Office**        | libre-office         | >>same<< / microsoft-office     |
 |                   | pdfchain             | adobe-acrobat-dc                |
