@@ -60,28 +60,29 @@ unproxycli
 | **Archivers**     | p7zip-full           | winzip, 7zip                    |
 |                   | p7zip-rar            | winrar                          |
 |                   | unrar                | winrar                          |
-| **Cloud**         | dropbox              | >>same<<                        |
-|                   | >>no alternative<<   | google-drive                    |
-|                   | >>no alternative<<   | google-file-stream              |
+| **Cloud**         | dropbox              | dropbox                         |
+|                   | -                    | google-drive                    |
+|                   | -                    | google-file-stream              |
 | **Development**   | default-jdk          | jdk                             |
 |                   | g++                  | mingw                           | 
 |                   | gcc                  | mingw                           |
-|                   | git-core             | git                             | 
-|                   | nodejs               | >>same<<                        |
-|                   | python3              | >>same<<                        |
-| **Downloads**     | clipgrab             | >>same<<                        |
-|                   | deluge               | >>same<<                        |
+|                   | git-core             | git/git-desktop                 | 
+|                   | nodejs               | nodejs                          |
+|                   | python               | python                          |
+| **Downloads**     | clipgrab             | clipgrab                        |
+|                   | deluge               | deluge                          |
 | **Graphics**      | flameshot            | lightshot                       |
-|                   | gimp                 | >>same<< / photoshop            |
+|                   | gimp                 | gimp/photoshop                  |
 |                   | gnome-paint          | paint                           |
-| **IDE**           | codeblocks           | >>same<<                        |
-|                   | eclipse              | >>same<<                        |
-|                   | idle3                | >>same<<                        |
-|                   | visual-studio-code   | >>same<<                        |
+| **IDE**           | codeblocks           | codeblocks                      |
+|                   | eclipse              | eclipse                         |
+|                   | idle3                | idle3                           |
+|                   | visual-studio-code   | visual-studio-code              |
 | **Multimedia**    | cheese               | camera                          |
 |                   | gnome-mplayer        | movies-&-tv                     |
-|                   | rhythmbox            | windows-media-player / winamp   |
+|                   | rhythmbox            | winamp                          |
 |                   | vlc                  | movies-&-tv                     |
-| **Office**        | libre-office         | >>same<< / microsoft-office     |
+| **Office**        | libre-office         | microsoft-office                |
 |                   | pdfchain             | adobe-acrobat-dc                |
-|                   | wps-office           | >>same<< / microsoft-office     |
+|                   | wps-office           | microsoft-office                |
+| **System**        | gparted              | windows-disk-management         |
