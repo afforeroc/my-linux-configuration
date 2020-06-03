@@ -55,34 +55,26 @@ unproxycli
 
 ## Recommended software list
 
-| Software type     | Linux                | Windows                         |
-| :---------------: | :------------------: | :-----------------------------: |
-| **Archivers**     | p7zip-full           | winzip, 7zip                    |
-|                   | p7zip-rar            | winrar                          |
-|                   | unrar                | winrar                          |
-| **Cloud**         | dropbox              | dropbox                         |
-|                   | -                    | google-drive                    |
-|                   | -                    | google-file-stream              |
-| **Development**   | default-jdk          | jdk                             |
-|                   | g++                  | mingw                           | 
-|                   | gcc                  | mingw                           |
-|                   | git-core             | git/git-desktop                 | 
-|                   | nodejs               | nodejs                          |
-|                   | python               | python                          |
-| **Downloads**     | clipgrab             | clipgrab                        |
-|                   | deluge               | deluge                          |
-| **Graphics**      | flameshot            | lightshot                       |
-|                   | gimp                 | gimp/photoshop                  |
-|                   | gnome-paint          | paint                           |
-| **IDE**           | codeblocks           | codeblocks                      |
-|                   | eclipse              | eclipse                         |
-|                   | idle3                | idle3                           |
-|                   | visual-studio-code   | visual-studio-code              |
-| **Multimedia**    | cheese               | camera                          |
-|                   | gnome-mplayer        | movies-&-tv                     |
-|                   | rhythmbox            | winamp                          |
-|                   | vlc                  | movies-&-tv                     |
-| **Office**        | libre-office         | microsoft-office                |
-|                   | pdfchain             | adobe-acrobat-dc                |
-|                   | wps-office           | microsoft-office                |
-| **System**        | gparted              | windows-disk-management         |
+| Software type     | Windows                 | Linux                          |
+| :---------------: | :---------------------: | :----------------------------: |
+| **Archivers**     | 7zip                    | p7zip-full                     |
+|                   | winrar                  | p7zip-full + p7zip-rar + unrar |
+|                   | winzip                  | p7zip-full                     |
+| **Cloud**         | dropbox                 | dropbox                        |
+|                   | google-drive            | -                              |
+|                   | google-file-stream      | -                              |
+| **Development**   | mingw                   | g++ / gcc                      |
+|                   | git                     | git-core                       |
+|                   | github-desktop          | -                              |
+| **Downloads**     | clipgrab                | clipgrab                       |
+|                   | μTorrent                | deluge                         |
+| **Graphics**      | lightshot               | flameshot                      |
+|                   | photoshop               | gimp                           |
+|                   | paint                   | gnome-paint                    |
+| **Multimedia**    | camera                  | cheese                         |
+|                   | groove-music            | cmus / rhythmbox               |
+|                   | movies-&-tv             | gnome-player / vlc             |
+| **Office**        | microsoft-office        | libre-office                   |
+|                   | pdfchain                | pdfchain                       |
+|                   | wps-office              | wps-office                     |
+| **System**        | windows-disk-management | gparted                        |
