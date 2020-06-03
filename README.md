@@ -67,7 +67,7 @@ unproxycli
 |                   | git                     | git-core                       |
 |                   | github-desktop          | -                              |
 | **Downloads**     | clipgrab                | clipgrab                       |
-|                   | μTorrent                | deluge                         |
+|                   | μtorrent                | deluge                         |
 | **Graphics**      | lightshot               | flameshot                      |
 |                   | photoshop               | gimp                           |
 |                   | paint                   | gnome-paint                    |
