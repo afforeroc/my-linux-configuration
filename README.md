@@ -53,6 +53,15 @@ unproxycli () {
 unproxycli
 ```
 
+## Fix clock for dualboot Linux-Windows
+1. Start Windows and execute Registry Editor `regedit`.
+2. Navigate to the following path inside the registry editor:
+```
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\TimeZoneInformation
+```
+3. Right-click to create a New DWORD (32-bit) with name `RealTimeIsUniversal`.
+4. Double-click over `RealTimeIsUniversal` file and set value data to 1 and click "OK" to save.
+
 ## Recommended software list
 
 | Software type     | Windows                 | Linux                          |
