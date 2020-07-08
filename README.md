@@ -87,3 +87,4 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\TimeZoneInformation
 |                   | pdfchain                | pdfchain                       |
 |                   | wps-office              | wps-office                     |
 | **System**        | windows-disk-management | gparted                        |
+|                   | rufus                   | unetbootin                     |
